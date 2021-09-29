@@ -1,0 +1,10 @@
+***Classes***	| ***Interfaces***
+----------------|-----------------
+Nobre		| Cavaleiro
+Principe	| Diplomata
+Conde		| Fiel
+Rainha		|
+Soldado		|
+Conselheiro	|
+Bispo		|
+Padre		|
